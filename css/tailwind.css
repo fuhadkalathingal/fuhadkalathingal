@@ -119,6 +119,10 @@ small {
 Prevent `sub` and `sup` elements from affecting the line height in all browsers.
 */
 
+iframe{
+  color: rgb(144, 2, 245);
+}
+
 .video-wrapper {
   margin-top: 30px;
   position: relative;
