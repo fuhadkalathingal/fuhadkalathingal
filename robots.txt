@@ -1,0 +1,3 @@
+user-agent: *
+allow:
+Sitemap: https://iammuhammedfuhad.github.io/iammuhammedfuhad/sitemap.xml
