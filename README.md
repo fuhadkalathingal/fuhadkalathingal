@@ -1,1 +1,1 @@
-I'm a junior ethical hacker and a small tech influencer called "Mr Comet". I love to make videos, design websites and hack some websites.
+![Fuhad's GitHub stats](https://github-readme-stats.vercel.app/api?username=iammuhammedfuhad&theme=dark&show_icons=true)
