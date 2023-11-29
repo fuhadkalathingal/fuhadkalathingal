@@ -13,9 +13,9 @@ I'm a self-taught programmer and a certified junior ethical hacker with a burnin
 
 ## 🌐 Connect with Me
 
-- LinkedIn: (https://linkedin.com/fuhadkalathingal/)
+- LinkedIn: https://linkedin.com/fuhadkalathingal/
 
 ## 🤝 Let's Collaborate
 
-I'm always open to exciting collaborations and projects. Feel free to reach out to me via email at (info.fuhadkalathingal@gmail.com).
+I'm always open to exciting collaborations and projects. Feel free to reach out to me via email at info.fuhadkalathingal@gmail.com
 
